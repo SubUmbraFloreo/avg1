@@ -19,7 +19,7 @@ try:
 
         print("Wert weitergegeben")
         # 60s Warten
-        time.sleep(10)  # TODO auf 60 ändern
+        time.sleep(10)  # TODO auf 60 ändern, Aufgabenstellung sieht 60 vor, aber für die Vorführung 10 gewählt
 except KeyboardInterrupt:
     print('Interrupted')
     try:
